@@ -1,0 +1,1 @@
+A search bar using which we can find a Github user and we can view the searched user's followers, following and repos count. On clicking on the repo name we get directed to the github site where the repo is present
